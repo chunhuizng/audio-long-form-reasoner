@@ -4,7 +4,7 @@
 ## Features
 
 1. The **first** implementation to support the **Qwen2.5-Omni Thinker** as a base model for **complex, end-to-end reasoning over audio and other unified input modalities** (e.g., audio, image, video, text).  
-2. The **first** to support **vLLM** as a rollout acceleration framework to improve GPU utilization for large-scale **omni-input language models**, including the Qwen2 and Qwen2.5-Omni series.
+2. The **first** to support **vLLM** as a rollout acceleration framework to improve GPU utilization for large-scale **omni-input language models**, including the Qwen2 and Qwen2.5-Omni series. It facilitates long context as input and generates long output.
 
 ## Introduction
 
