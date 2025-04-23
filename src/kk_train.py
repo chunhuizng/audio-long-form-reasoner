@@ -67,6 +67,7 @@ def main():
     save_steps=100,
     save_only_model=True,   
     temperature=1,
+    beta=0,
     num_generations=2,  # 先调小，保证跑起来
     vllm_device="auto",
     loss_type="dr_grpo"
